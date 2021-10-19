@@ -83,7 +83,7 @@ params:
     showcase:
       - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
+        title: About me
         url: blogs/aliquam
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
