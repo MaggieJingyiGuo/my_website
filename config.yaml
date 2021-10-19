@@ -89,13 +89,13 @@ params:
         subtitle: Feugiat Amet Tempus
         title: Risk return of DJIA
         url: blogs/risk_return
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: soup.jpg
+        subtitle: Cooking makes my day
+        title: Foodie
         url: blogs/magna
       - image: towerbridge.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Life is life
+        title: London
         url: blogs/ipsum
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
