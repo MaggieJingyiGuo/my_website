@@ -92,11 +92,11 @@ params:
       - image: soup.jpg
         subtitle: Cooking makes my day
         title: Foodie
-        url: blogs/magna
+        url: blogs/cooking
       - image: towerbridge.jpg
         subtitle: Life is life
         title: London
-        url: blogs/ipsum
+        url: blogs/london
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
