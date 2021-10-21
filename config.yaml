@@ -85,8 +85,8 @@ params:
         subtitle: Maggie Guo MFA2022
         title: About me
         url: blogs/aliquam
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
+      - image: stockmarket.jpg
+        subtitle: Stock Index
         title: Risk return of DJIA
         url: blogs/risk_return
       - image: soup.jpg
