@@ -13,7 +13,7 @@ title: About Me
 My name is Jingyi Guo, and you can call me Maggie.
 
 
-I was born in Shanghai, China. 
+I was born and bred in Shanghai, China. 
 
 
 London is a really beautiful City and it's really happy to have one year study here!
