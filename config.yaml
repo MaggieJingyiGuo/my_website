@@ -82,7 +82,7 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Maggie Guo MFA2022
         title: About me
         url: blogs/aliquam
       - image: pic02.jpg
