@@ -98,13 +98,13 @@ params:
         title: London
         url: blogs/london
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        subtitle: Analysis of price with 2 people for 4 nights in Montreal
+        title: AirBnB analytics in Montreal
         url: blogs/ca09_group_project_group4
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        title: Voting in the UN General Assembly
+        url: blogs/voting
   two:
     buttonText: Get Started
     enable: yes
